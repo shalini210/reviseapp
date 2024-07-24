@@ -1,0 +1,42 @@
+.menu
+{
+    height:100px;
+    width: 100%;
+    background-color: aquamarine;
+   
+}
+.container
+{
+    width:80%;
+    height:1000px;
+    background-image: linear-gradient(yellow,green);
+
+}
+.Sidebar
+{
+    width:18%;
+    height:1000px;
+    background-color:yellowgreen
+}
+.footer
+{
+    background-color: green;
+    text-align: center;
+    color: white;
+}
+.maincontainer
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.teammember
+{
+    width:250px;
+    height:500px;
+ text-align: center;
+}
+.teammember>img
+{
+    height:150px;
+    width:180px;
+}
